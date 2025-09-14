@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm <a href="https://bashonu.com/" target="_blank">Moez Ullah Khan Durrani</a>
+  Hi, I'm <a href="https://bashonu.com/" target="_blank">Moez Ullah Khan</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
 </h3>
 
