@@ -17,33 +17,34 @@
 
 <p align="left">
   <!-- Languages -->
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' width='30'/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
 
   <!-- Frameworks -->
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' width='30'/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/>
 
-  <!-- AI & Data -->
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' width='30'/>
+  <!-- AI/ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/>
+
+  <!-- Databases / Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="30"/>
 
   <!-- Tools -->
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='30'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' width='30'/>
-  <img src='https://img.shields.io/badge/Postman-F46C30?style=flat-square&logo=postman&logoColor=white' height='25'/>
-  <img src='https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white' height='25'/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/>
 </p>
 
 ---
