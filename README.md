@@ -73,13 +73,13 @@ class WhoAmI:
 
 ## 📂 Projects
 
-- [**Kronecker Graph Fitting**](https://github.com/your-repo) – PyTorch-based model for scalable network generation  
+- **Kronecker Graph Fitting** – PyTorch-based model for scalable network generation 🔒 (private research repo)
 - [**Bashonu.com**](https://bashonu.com/) – cultural preservation platform built with Next.js + Supabase  
 - [**MastujChitral.com**](https://mastujchitral.com/) – travel & heritage storytelling with multilingual support  
-- [**3D Simulation Framework**](https://github.com/your-repo) – Python-based tool for VR/AR visual tracking optimization  
-- [**Trend Teller**](https://github.com/your-repo) – stock prediction app using Prophet & Streamlit  
-- [**Java Trip**](https://github.com/your-repo) – OOP-based adventure game developed in Java  
-- [**Bounce Game**](https://github.com/your-repo) – classic ball-bounce game implemented in C  
+- [**3D Simulation Framework**](https://github.com/moezdurrani/TinyRayTracerPython) – Python-based tool for VR/AR visual tracking optimization  
+- [**Trend Teller**](https://github.com/moezdurrani/TrendTeller?tab=readme-ov-file) – stock prediction app using Prophet & Streamlit  
+- [**Java Trip**](https://github.com/moezdurrani/JavaTrip) – OOP-based adventure game developed in Java  
+- [**Bounce Game**](https://github.com/moezdurrani/BounceGame) – classic ball-bounce game implemented in C  
 
 
 
